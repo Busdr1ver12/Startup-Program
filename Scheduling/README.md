@@ -6,5 +6,6 @@ Overview: This project is created to determine the Completion, Turnaround, Waiti
 Instructions: Start code with a C++ compiler.
 
 To compile and run:
+```bash
 g++ -o scheduling scheduling.cpp  
 ./scheduling
