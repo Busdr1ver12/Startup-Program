@@ -1,11 +1,5 @@
-# Startup-Program  
-Team Members Include: Sebastian Palomo  
+# Repository-Overview
 
-Overview: This project is created simply to simulate a start-up process that includes a loading screen and secure user authentication. 
+This is for my CSCE 4326 Operating System.
 
-Instructions: Start the code within a C++ compiler. Enter the Username (`email@dusty.tamiu.edu`) and Password (`Password1337`) when prompted.  
-
-To compile and run: 
-```bash
-g++ -o startup startup.cpp  
-./startup
+It is a collage of projects which do not need to be used together. Each folder holds different projects.
