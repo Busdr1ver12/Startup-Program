@@ -1,4 +1,4 @@
-#Scheduling Program
+#Scheduling-Program
 
 Team Members Include: Sebastian Palomo
 
